@@ -1,7 +1,7 @@
 # 🔮 CX0R4 - PHP Web Console Manager
 
 <p align="center">
-  <img src="https://github.com/CuteXploit/simple/blob/main/Screenshot%202026-06-14%20140759.png" alt="CX0R4 Dashboard" width="800">
+  <img src="https://github.com/CuteXploit/PHP-Web-Console-Manager/blob/main/Screenshot%202026-06-14%20145329.png" alt="CX0R4 Dashboard" width="800">
 </p>
 
 <p align="center">
