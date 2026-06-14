@@ -20,6 +20,10 @@
 
 ## 📸 Screenshots
 
+| Application Flow |
+|:--:|
+| <img src="https://github.com/CuteXploit/simple/blob/main/screenshots/flow.png" width="800"> |
+
 | Login Page | File Manager |
 |------------|--------------|
 | <img src="screenshots/login.png" width="400"> | <img src="screenshots/files.png" width="400"> |
